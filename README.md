@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Océane</h1>
-<h3 align="center">A passionate frontend developer from France living in the Indian Ocean</h3>
+<h1>Hi 👋, I'm Océane</h1>
+<h3>A passionate frontend developer from France living in the Indian Ocean</h3>
 
 - 🌱 I’m currently learning **react and vue**
 
 - 🤝 I’m looking for opportunities **as a full-stack developer**
 
-- 📫 How to reach me **bounan.oceane@gmail.com**
+<h3>My bootcamp projects</h3>
+
+- 👩🏻‍🍼 Imaginnany
+  
+- 🚌 ExploreLog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **bounan.oceane@gmail.com**
+  <a href="https://linkedin.com/in/www.linkedin.com/in/océane-bounan-23l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/océane-bounan-23l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

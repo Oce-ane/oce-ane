@@ -15,7 +15,7 @@
 <h3>More about me</h3>
 
 ```ruby
-ocean_bounan = {
+oceane_bounan = {
   location: "Indian Ocean 🏝️",
   passion: "Frontend Development",
   seeking: "Full-stack Developer Opportunities",
@@ -35,7 +35,8 @@ ocean_bounan = {
 
 
 <h3>Let's Connect! 📩</h3>
-Feel free to reach out to me via [email](mailto:bounan.oceane@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/océane-bounan-23l).
+Feel free to reach out to me via [email](mailto:bounan.oceane@gmail.com) or connect with me on 
+<a href="[https://getbootstrap.com](https://www.linkedin.com/in/océane-bounan-23l)" target="LinkedIn">
 
 Let's craft the future together! ✨
 

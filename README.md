@@ -35,8 +35,8 @@ oceane_bounan = {
 
 
 <h3>Let's Connect! 📩</h3>
-Feel free to reach out to me via [email](mailto:bounan.oceane@gmail.com) or connect with me on 
-<a href="[https://getbootstrap.com](https://www.linkedin.com/in/océane-bounan-23l)" target="LinkedIn">
+Feel free to reach out to me via <a href="mailto:bounan.oceane@gmail.com">email</a> or connect with me on 
+<a href="[https://getbootstrap.com](https://www.linkedin.com/in/océane-bounan-23l)">LinkedIn</a>
 
 Let's craft the future together! ✨
 

@@ -1,5 +1,5 @@
 <h1 align='center'>Hello world 👋</h1>
-<h3>I'm Océane, a passionate junior developer based in the mesmerizing landscapes of the Indian Ocean 🏝️. </h3>
+<h3>I'm Océane, a passionate junior full-stack developer based in the mesmerizing landscapes of the Indian Ocean 🏝️. </h3>
 
 - 🌱 Currently, I'm diving deep into the realms of React and Vue, crafting delightful user experiences one component at a time.
 
@@ -17,7 +17,6 @@
 ```ruby
 oceane_bounan = {
   location: "Indian Ocean 🏝️",
-  passion: "Frontend Development",
   seeking: "Full-stack Developer Opportunities",
   interests: ["Coding", "Exploring", "Creating", "Learning"],
   currently_learning: ["React", "Vue.js", "Sass"],

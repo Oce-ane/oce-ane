@@ -7,13 +7,13 @@
 
 <h3>My Code Kingdom 🚀</h3>
 
-👩🏻‍🍼 **Imaginnany** - Where creativity knows no bounds! A whimsical project where imagination takes flight.
+👩🏻‍🍼 <a href='https://github.com/Oce-ane/Explore_Log'>**Imaginnany**</a> - Where creativity knows no bounds! A whimsical project where imagination takes flight.
 - Collaborated as part of a development team to create a creative Airbnb clone in just one week.
 - Focused on backend development and generating over 120 unique seed data entries to ensure a rich and diverse user experience.
 - Utilized Ruby on Rails, PostgreSQL, and Cloudinary, along with SCSS, HTML, and JavaScript for front-end elements, and deployed the application on Heroku.
 - Successfully developed and deployed a fully functional and innovative Airbnb clone, contributing significantly to the project's backend robustness and data richness.
   
-🚌 **ExploreLog** - Where memories are made simple!
+🚌 <a href='https://github.com/Oce-ane/imaginanny'>**ExploreLog**</a> - Where memories are made simple!
 - Developed a travel-based scrapbooking app to simplify documenting trips with photos, texts, and map locations.
 - Aimed to create a user-friendly platform for travelers to record and share their memories effortlessly.
 - Utilized Ruby on Rails, Interact.js, SweetAlert, and Cloudinary to build features like designing customizable pins, saving user changes, and creating shareable videos.

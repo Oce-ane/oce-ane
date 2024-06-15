@@ -20,6 +20,15 @@
 - Delivered a comprehensive app that allows users to design personalized travel pins from scratch or templates, enhancing the user experience and engagement.
 - Deployed on Heroku and designed with Figma to ensure a smooth, visually appealing user interface.
 
+💪 <a href='https://github.com/Oce-ane/LevelUp'>**LevelUp**</a> - Perfect Your Skills, One Step at a Time!
+- Developed LevelUp to enhance coding skills through the creation of a comprehensive skill-tracking application.
+- Designed and implemented the entire app independently, focusing on helping users track their progress in mastering various physical skills.
+- Utilized Figma to create a seamless and intuitive user interface and experience.
+- Built with Ruby on Rails, utilizing Stimulus for interactive elements and PostgreSQL for robust database management.
+- Integrated Sidekiq for efficient background job processing, ensuring smooth app performance.
+- Crafted a responsive and visually appealing front-end using SCSS, HTML, and JavaScript.
+- Successfully delivered a fully functional app that allows users to track and manage their progress in mastering different physical skills, providing a rich and engaging user experience.
+
 
 
 <h3>More about me</h3>

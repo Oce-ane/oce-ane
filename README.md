@@ -1,4 +1,4 @@
-<h1 align='center'>Hello world 👋</h1>
+<h1 align='center'>Hello 👋</h1>
 <h3>I'm Océane, a passionate junior full-stack developer based in the mesmerizing landscapes of the Indian Ocean 🏝️. </h3>
 
 🌱 Currently, I'm diving deep into the realms of React and Vue, crafting delightful user experiences one component at a time.

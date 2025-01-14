@@ -1,7 +1,7 @@
 <h1 align='center'>Hello 👋</h1>
-<h3>I'm Océane, a passionate junior full-stack developer based in the mesmerizing landscapes of the Indian Ocean 🏝️. </h3>
+<h3>I'm Océane, a passionate full-stack developer based in the mesmerizing landscapes of the Indian Ocean 🏝️. </h3>
 
-🌱 Currently, I'm diving deep into the realms of React and Vue, crafting delightful user experiences one component at a time.
+🌱 Currently, I'm diving deep into the realms of React and Python, crafting delightful user experiences one component at a time.
 
 🤝 I'm looking for junior full-stack opportunities where I can bring my enthusiasm for problem-solving and creativity in coding. My strong communication skills and ability to work well in teams allow me to collaborate effectively on projects. With a knack for organization and a commitment to continuous learning, I aim to contribute to dynamic and innovative development environments.
 

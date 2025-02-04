@@ -30,9 +30,9 @@
 - Successfully delivered a fully functional app that allows users to track and manage their progress in mastering different physical skills, providing a rich and engaging user experience.
 
 🌊 <a href='https://github.com/Oce-ane/diving-weather-app'>**Dive Weather App**</a> - Find the Perfect Dive Conditions! _(Work in Progress)_
-- Developed a tool to help divers assess real-time diving conditions based on marine weather data.
-- Scraped a dataset of over 10,000 dive sites from a website with a complex nesting structure, making it a challenging large-scale web scraping project.
-- Used PostgreSQL and PG Search for efficient searching by dive site name or country.
+- Develop a tool to help divers assess real-time diving conditions based on marine weather data.
+- Scrape a dataset of over 10,000 dive sites from a website with a complex nesting structure, making it a challenging large-scale web scraping project.
+- Use PostgreSQL and PG Search for efficient searching by dive site name or country.
 - Fetch real-time marine weather data (wave height, wave period, wind, currents, and more) to provide a dive condition rating.
 - Currently displays search results in a table, with plans for a more visually engaging, color-coded display.
 - Future improvements include the ability to select dive sites on a map instead of searching manually.

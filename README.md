@@ -36,6 +36,7 @@
 - Fetch real-time marine weather data (wave height, wave period, wind, currents, and more) to provide a dive condition rating.
 - Currently displays search results in a table, with plans for a more visually engaging, color-coded display.
 - Future improvements include the ability to select dive sites on a map instead of searching manually.
+
 🔨 This project is still evolving, and new features and improvements are on the way!
 
 

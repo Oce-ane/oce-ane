@@ -1,7 +1,7 @@
 <h1 align='center'>Hello 👋</h1>
 <h3>I'm Océane, a passionate full-stack developer based in the mesmerising landscapes of the Indian Ocean 🏝️. </h3>
 
-🌱 Currently, I'm diving deep into the realms of Next.js and Python, crafting user experiences one component at a time.
+🌱 Currently, I'm diving deep into the realms of Next.js and Rust, crafting user experiences one component at a time.
 
 🤝 I'm looking for junior full-stack opportunities where I can bring my enthusiasm for problem-solving and creativity in coding. My strong communication skills and ability to work well in teams allow me to collaborate effectively on projects. With a knack for organisation and a commitment to continuous learning, I aim to contribute to dynamic and innovative development environments.
 
@@ -47,7 +47,7 @@ oceane_bounan = {
   location: "Indian Ocean 🏝️",
   seeking: "Full-stack Developer Opportunities",
   interests: ["Coding", "Exploring", "Creating", "Learning"],
-  currently_learning: ["React", "Vue.js", "Sass"],
+  currently_learning: ["TypeScript", "Vue.js", "Rust"],
   languages: ["HTML5", "CSS3", "JavaScript", "Ruby"],
   tools: ["Bootstrap", "Figma", "Git", "Heroku", "Photoshop", "PostgreSQL", "Postman", "Puppeteer", "Rails", "Redis", "SQLite"],
   connect_with_me: {

@@ -10,8 +10,8 @@ oceane_bounan = {
   location: "Indian Ocean 🏝️",
   seeking: "Full-stack Developer Opportunities",
   interests: ["Coding", "Exploring", "Creating", "Learning"],
-  currently_learning: ["TypeScript", "Vue.js", "Rust"],
-  languages: ["HTML5", "CSS3", "JavaScript", "Ruby"],
+  currently_learning: ["Python", "Rust"],
+  languages: ["Typescript", "Ruby"],
   tools: ["Bootstrap", "Figma", "Git", "Heroku", "Photoshop", "PostgreSQL", "Postman", "Puppeteer", "Rails", "Redis", "SQLite"],
   connect_with_me: {
     email: "bounan.oceane@gmail.com",

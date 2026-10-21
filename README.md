@@ -1,7 +1,7 @@
 <h1 align='center'>Hello 👋</h1>
-<h3>I'm Océane, a passionate full-stack developer based in the mesmerising landscapes of the Indian Ocean 🏝️. </h3>
+<h3>I'm Océane, a passionate full-stack developer and problem=solving enthusiast. </h3>
 
-🌱 Currently, I'm diving deep into the realms of Next.js, Rails and Rust, crafting user experiences one component at a time.
+🌱 Currently, I'm diving deep into the realms of Next.js, Python, Rails and Rust, crafting user experiences one component at a time.
 
 <h3>More about me</h3>
 
@@ -12,7 +12,7 @@ oceane_bounan = {
   interests: ["Coding", "Exploring", "Creating", "Learning"],
   currently_learning: ["Python", "Rust"],
   languages: ["Typescript", "Ruby"],
-  tools: ["Bootstrap", "Figma", "Git", "Heroku", "Photoshop", "PostgreSQL", "Postman", "Puppeteer", "Rails", "Redis", "SQLite"],
+  tools: ["Git", "AWS", "PostgreSQL", "Postman", "Puppeteer", "Rails", "Redis", "SQLite"],
   connect_with_me: {
     email: "bounan.oceane@gmail.com",
     linkedin: "www.linkedin.com/in/oceane-bounan"

@@ -1,5 +1,5 @@
 <h1 align='center'>Hello 👋</h1>
-<h3>I'm Océane, a passionate full-stack developer and problem=solving enthusiast. </h3>
+<h3>I'm Océane, a passionate full-stack developer and problem-solving enthusiast. </h3>
 
 🌱 Currently, I'm diving deep into the realms of Next.js, Python, Rails and Rust, crafting user experiences one component at a time.
 
